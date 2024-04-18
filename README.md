@@ -3,5 +3,5 @@ Pytorch code for "Unbiased Feature Learning with Causal Intervention for Visible
 
 Under review now.
 
-Details can be found in https://github.com/NJUPT-MCC/UCT.
+**Details can be found in https://github.com/NJUPT-MCC/UCT.**
 
